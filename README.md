@@ -1,4 +1,4 @@
 # translation
 A Python GUI program.
 
-                                                       !!!NOT FINISHED!!!
+                                                     !!! NOT FINISHED !!!
